@@ -1,0 +1,67 @@
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/13.jpg",
+  "pixel_width": 720,
+  "pixel_height": 3008,
+  "aspect_ratio": "45:188",
+  "aspect_ratio_decimal_width_over_height": 0.239362,
+  "orientation": "portrait",
+  "tiled": true,
+  "mode": "vertical",
+  "overlap_fraction_requested_target": 0.12,
+  "overlap_fraction_actual_minimum": {
+    "horizontal": 0.0,
+    "vertical": 0.196667
+  },
+  "reading_order": "top-to-bottom",
+  "tile_count": 6,
+  "tiles": [
+    {
+      "index": 1,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/13/tile_001_x000000_y000000.png",
+      "x": 0,
+      "y": 0,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 2,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/13/tile_002_x000000_y000482.png",
+      "x": 0,
+      "y": 482,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 3,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/13/tile_003_x000000_y000963.png",
+      "x": 0,
+      "y": 963,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 4,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/13/tile_004_x000000_y001445.png",
+      "x": 0,
+      "y": 1445,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 5,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/13/tile_005_x000000_y001926.png",
+      "x": 0,
+      "y": 1926,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 6,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/13/tile_006_x000000_y002408.png",
+      "x": 0,
+      "y": 2408,
+      "pixel_width": 720,
+      "pixel_height": 600
+    }
+  ]
+}

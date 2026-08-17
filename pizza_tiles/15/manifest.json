@@ -1,0 +1,83 @@
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/15.jpg",
+  "pixel_width": 720,
+  "pixel_height": 4542,
+  "aspect_ratio": "120:757",
+  "aspect_ratio_decimal_width_over_height": 0.15852,
+  "orientation": "portrait",
+  "tiled": true,
+  "mode": "vertical",
+  "overlap_fraction_requested_target": 0.12,
+  "overlap_fraction_actual_minimum": {
+    "horizontal": 0.0,
+    "vertical": 0.06
+  },
+  "reading_order": "top-to-bottom",
+  "tile_count": 8,
+  "tiles": [
+    {
+      "index": 1,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/15/tile_001_x000000_y000000.png",
+      "x": 0,
+      "y": 0,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 2,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/15/tile_002_x000000_y000563.png",
+      "x": 0,
+      "y": 563,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 3,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/15/tile_003_x000000_y001126.png",
+      "x": 0,
+      "y": 1126,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 4,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/15/tile_004_x000000_y001689.png",
+      "x": 0,
+      "y": 1689,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 5,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/15/tile_005_x000000_y002253.png",
+      "x": 0,
+      "y": 2253,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 6,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/15/tile_006_x000000_y002816.png",
+      "x": 0,
+      "y": 2816,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 7,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/15/tile_007_x000000_y003379.png",
+      "x": 0,
+      "y": 3379,
+      "pixel_width": 720,
+      "pixel_height": 600
+    },
+    {
+      "index": 8,
+      "path": "/home/ubuntu/food-costing-calculator/pizza_tiles/15/tile_008_x000000_y003942.png",
+      "x": 0,
+      "y": 3942,
+      "pixel_width": 720,
+      "pixel_height": 600
+    }
+  ]
+}
