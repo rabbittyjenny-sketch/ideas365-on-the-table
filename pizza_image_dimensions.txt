@@ -1,0 +1,170 @@
+FILE pizza_images/01.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/01.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/1.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/1.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/10.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/10.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/11.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/11.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/12.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/12.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/13.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/13.jpg",
+  "pixel_width": 720,
+  "pixel_height": 3008,
+  "aspect_ratio": "45:188",
+  "aspect_ratio_decimal_width_over_height": 0.239362,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/14.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/14.jpg",
+  "pixel_width": 720,
+  "pixel_height": 3008,
+  "aspect_ratio": "45:188",
+  "aspect_ratio_decimal_width_over_height": 0.239362,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/15.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/15.jpg",
+  "pixel_width": 720,
+  "pixel_height": 4542,
+  "aspect_ratio": "120:757",
+  "aspect_ratio_decimal_width_over_height": 0.15852,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/16.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/16.jpg",
+  "pixel_width": 720,
+  "pixel_height": 4542,
+  "aspect_ratio": "120:757",
+  "aspect_ratio_decimal_width_over_height": 0.15852,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/2.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/2.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/3.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/3.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/4.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/4.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/5.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/5.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/6.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/6.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/7.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/7.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/8.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/8.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
+FILE pizza_images/9.jpg
+{
+  "source": "/home/ubuntu/food-costing-calculator/pizza_images/9.jpg",
+  "pixel_width": 720,
+  "pixel_height": 1612,
+  "aspect_ratio": "180:403",
+  "aspect_ratio_decimal_width_over_height": 0.44665,
+  "orientation": "portrait",
+  "tiled": false
+}
